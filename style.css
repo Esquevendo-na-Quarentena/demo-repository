@@ -1,0 +1,14 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+    color: red;
+}
+
+.paragraph {
+    font-size: 20px;
+}
